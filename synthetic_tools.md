@@ -2,6 +2,12 @@
 
 This dataset contains synthetically generated images of four tools as well as a test set of real images for each tool. The images are annotated with keypoint locations and bounding boxes.
 
+## Download
+
+Download the dataset via [Google Drive](https://drive.google.com/file/d/1yqRjHPpQrlQbKhstkMM6coyYouJsKHY_/view?usp=sharing).
+
+## Dataset structure
+
 This file sturcture looks like this:
 ```
 SyntheticTools
